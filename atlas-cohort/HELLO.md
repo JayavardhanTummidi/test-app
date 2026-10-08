@@ -1,3 +1,4 @@
 # Written by an ATLAS cohort agent
 
-Through a composed MCP server.
+Updated through the composed MCP server.
+Deleting is not on the menu.
