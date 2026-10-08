@@ -1,0 +1,1 @@
+Written by an ATLAS cohort agent through a composed MCP server.
